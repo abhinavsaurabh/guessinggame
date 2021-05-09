@@ -1,3 +1,2 @@
-# guessinggame
- Wed Oct 5 7:50:10 DST 2018  
- 21
+# Guessing Match
+Guessing Game using bash
